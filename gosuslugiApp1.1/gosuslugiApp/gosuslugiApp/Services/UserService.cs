@@ -5,11 +5,18 @@ public class UserService
 {
     private readonly IUserRepository userRepository;
     private readonly ICharacteristicRepository characteristicRepository;
+    private readonly ICharacteristicTypeRepository characteristicTypeRepository;
 
-    public UserService(IUserRepository userRepository, ICharacteristicRepository characteristicRepository)
+    public UserService(IUserRepository userRepository, ICharacteristicRepository characteristicRepository, ICharacteristicTypeRepository characteristicTypeRepository)
     {
         this.userRepository = userRepository;
         this.characteristicRepository = characteristicRepository;
+        this.characteristicTypeRepository = characteristicTypeRepository;   
+    }
+
+    public List<CharacteristicType> GetCharacteristicTypes()
+    {
+        return characteristicTypeRepository.GetAll();
     }
     public List<User> GetGovernmentEmployees()
     {

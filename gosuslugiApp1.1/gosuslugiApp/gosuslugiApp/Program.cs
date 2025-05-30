@@ -26,14 +26,14 @@ namespace gosuslugiApp
             var charRepo = new CharacteristicRepository(dbHelper);
             var charTypeRepo = new CharacteristicTypeRepository(dbHelper);
 
-            var userService = new UserService(userRepo, charRepo);
-            var serviceService = new ServiceService(ruleRepo, serviceRepo);
+            var userService = new UserService(userRepo, charRepo, charTypeRepo);
+            var serviceService = new ServiceService(ruleRepo, serviceRepo, charTypeRepo);
             var appService = new ApplicationService(appRepo, serviceRepo, ruleRepo, charRepo, serviceService, userService);
 
             var applicationController = new ApplicationController(appService);
-            var serviceController = new ServiceController(serviceRepo, serviceService, charTypeRepo, ruleRepo, userService);
+            var serviceController = new ServiceController(serviceService, userService);
             var authController = new AuthController(new AuthService(userRepo));
-            var userController = new UserController(userService, charTypeRepo);
+            var userController = new UserController(userService);
 
             // Запуск приложения
             Application.Run(new LoginForm(authController, applicationController, serviceController, userController));

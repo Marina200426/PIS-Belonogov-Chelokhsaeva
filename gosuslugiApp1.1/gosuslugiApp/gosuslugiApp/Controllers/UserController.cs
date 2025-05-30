@@ -3,12 +3,11 @@ using System.Collections.Generic;
 public class UserController
 {
     private readonly UserService userService;
-    private readonly ICharacteristicTypeRepository characteristicTypeRepository;
+    
 
-    public UserController(UserService userService, ICharacteristicTypeRepository characteristicTypeRepository)
+    public UserController(UserService userService)
     {
         this.userService = userService;
-        this.characteristicTypeRepository = characteristicTypeRepository;
     }
 
     public User GetUserProfile(int userId)
@@ -18,7 +17,7 @@ public class UserController
 
     public List<CharacteristicType> GetCharacteristicTypes()
     {
-        return characteristicTypeRepository.GetAll();
+        return userService.GetCharacteristicTypes();
     }
 
     public List<Characteristic> GetUserCharacteristics(int userId)

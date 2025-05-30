@@ -2,23 +2,16 @@ using System.Collections.Generic;
 
 public class ServiceController
 {
-    private readonly IServiceRepository serviceRepository;
+    
     private readonly ServiceService serviceService;
-    private readonly ICharacteristicTypeRepository characteristicTypeRepository;
-    private readonly IRuleRepository ruleRepository;
     private readonly UserService userService;
 
     public ServiceController(
-        IServiceRepository serviceRepository,
         ServiceService serviceService,
-        ICharacteristicTypeRepository characteristicTypeRepository,
-        IRuleRepository ruleRepository,
         UserService userService)
     {
-        this.serviceRepository = serviceRepository;
         this.serviceService = serviceService;
-        this.characteristicTypeRepository = characteristicTypeRepository;
-        this.ruleRepository = ruleRepository;
+       
         this.userService = userService;
     }
 
@@ -29,32 +22,32 @@ public class ServiceController
 
     public List<CharacteristicType> GetCharacteristicTypes()
     {
-        return characteristicTypeRepository.GetAll();
+        return serviceService.GetCharacteristicTypes();
     }
 
     public List<Rule> GetRulesByServiceId(int serviceId)
     {
-        return ruleRepository.FindByServiceId(serviceId);
+        return serviceService.GetRulesByServiceId(serviceId);
     }
 
     public void AddRule(Rule rule)
     {
-        ruleRepository.Create(rule);
+        serviceService.AddRule(rule);
     }
 
     public void CreateCharacteristicType(CharacteristicType characteristicType)
     {
-        characteristicTypeRepository.Create(characteristicType);
+        serviceService.CreateCharacteristicType(characteristicType);
     }
 
     public List<Service> GetActiveServices()
     {
-        return serviceRepository.GetActiveServices();
+        return serviceService.GetActiveServices();
     }
 
     public void AddService(Service service, List<Rule> rules)
     {
-        serviceService.AddService(service, rules);
+        serviceService.AddService(service);
     }
 
     public void ReplaceService(int serviceId, Service updatedService)
@@ -69,7 +62,7 @@ public class ServiceController
 
     public Service GetServiceById(int serviceId)
     {
-        return serviceRepository.FindById(serviceId);
+        return serviceService.GetServiceById(serviceId);
     }
 }
 
