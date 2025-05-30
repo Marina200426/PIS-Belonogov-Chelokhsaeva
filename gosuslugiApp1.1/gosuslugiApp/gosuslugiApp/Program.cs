@@ -28,7 +28,7 @@ namespace gosuslugiApp
 
             var userService = new UserService(userRepo, charRepo, charTypeRepo);
             var serviceService = new ServiceService(ruleRepo, serviceRepo, charTypeRepo);
-            var appService = new ApplicationService(appRepo, serviceRepo, ruleRepo, charRepo, serviceService, userService);
+            var appService = new ApplicationService(appRepo, serviceRepo, ruleRepo, charRepo);
 
             var applicationController = new ApplicationController(appService);
             var serviceController = new ServiceController(serviceService, userService);

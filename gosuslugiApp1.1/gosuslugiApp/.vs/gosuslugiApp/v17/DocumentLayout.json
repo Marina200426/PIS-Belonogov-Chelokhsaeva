@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\repositories\\characteristictyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\repositories\\characteristictyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,16 +23,24 @@
       "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\services\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\repositories\\characteristictyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\repositories\\characteristictyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\services\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|c:\\users\\mchel\\desktop\\\u043F\u0438\u0441\\-\\gosuslugiapp1.1\\gosuslugiapp\\gosuslugiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|solutionrelative:gosuslugiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C3B8318-F9EF-4418-B2D7-FCB20E3E954C}|gosuslugiApp\\gosuslugiApp.csproj|C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiapp\\repositories\\iapplicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,27 +230,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Program.cs",
-              "RelativeDocumentMoniker": "gosuslugiApp\\Program.cs",
-              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Program.cs",
-              "RelativeToolTip": "gosuslugiApp\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAwCMAAAA/AAAA",
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "gosuslugiApp\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:13:53.102Z",
+              "WhenOpened": "2025-05-30T23:21:42.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "gosuslugiApp\\Services\\AuthService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:46:09.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CharacteristicTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
+              "RelativeToolTip": "gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:08:02.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Services\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\ApplicationService.cs",
+              "RelativeToolTip": "gosuslugiApp\\Services\\ApplicationService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAwwJ4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:41:53.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\UserController.cs",
               "RelativeToolTip": "gosuslugiApp\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwCoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T22:20:00.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "gosuslugiApp\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:58:02.494Z",
               "EditorCaption": ""
             },
             {
@@ -253,39 +313,9 @@
               "RelativeDocumentMoniker": "gosuslugiApp\\Services\\UserService.cs",
               "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\UserService.cs",
               "RelativeToolTip": "gosuslugiApp\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T22:25:45.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CharacteristicTypeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
-              "RelativeDocumentMoniker": "gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
-              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
-              "RelativeToolTip": "gosuslugiApp\\Repositories\\CharacteristicTypeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:08:02.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "gosuslugiApp\\Controllers\\ServiceController.cs",
-              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "gosuslugiApp\\Controllers\\ServiceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T21:58:02.494Z",
               "EditorCaption": ""
             },
             {
@@ -296,7 +326,7 @@
               "RelativeDocumentMoniker": "gosuslugiApp\\Services\\ServiceService.cs",
               "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\ServiceService.cs",
               "RelativeToolTip": "gosuslugiApp\\Services\\ServiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABgAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwEYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-30T21:54:48.796Z",
               "EditorCaption": ""
@@ -304,6 +334,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "gosuslugiApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T17:12:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Program.cs",
+              "RelativeDocumentMoniker": "gosuslugiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Program.cs",
+              "RelativeToolTip": "gosuslugiApp\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwB4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:13:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IApplicationRepository.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\IApplicationRepository.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Repositories\\IApplicationRepository.cs",
@@ -315,19 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "gosuslugiApp\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Services\\AuthService.cs",
-              "RelativeToolTip": "gosuslugiApp\\Services\\AuthService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T16:46:09.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Models\\Service.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Models\\Service.cs",
@@ -339,20 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "gosuslugiApp\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "gosuslugiApp\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T17:12:52.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Models\\User.cs",
@@ -364,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Rule.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Models\\Rule.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Models\\Rule.cs",
@@ -376,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Characteristic.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Models\\Characteristic.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Models\\Characteristic.cs",
@@ -388,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Applications.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Models\\Applications.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Models\\Applications.cs",
@@ -400,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Session.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Utilities\\Session.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Utilities\\Session.cs",
@@ -412,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ICharacteristicRepository.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Repositories\\ICharacteristicRepository.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Repositories\\ICharacteristicRepository.cs",
@@ -424,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ViewApplicationsForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ViewApplicationsForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ViewApplicationsForm.Designer.cs",
@@ -436,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ViewApplicationsForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ViewApplicationsForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ViewApplicationsForm.cs",
@@ -448,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UpdateProfileForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateProfileForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateProfileForm.Designer.cs",
@@ -460,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "UpdateProfileForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateProfileForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateProfileForm.cs",
@@ -472,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "UpdateApplicationStatusForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateApplicationStatusForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateApplicationStatusForm.Designer.cs",
@@ -484,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "UpdateApplicationStatusForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateApplicationStatusForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateApplicationStatusForm.cs",
@@ -496,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "SubmitApplicationForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\SubmitApplicationForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\SubmitApplicationForm.Designer.cs",
@@ -508,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "SubmitApplicationForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\SubmitApplicationForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\SubmitApplicationForm.cs",
@@ -520,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "RegisterForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\RegisterForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\RegisterForm.Designer.cs",
@@ -532,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ManageServicesForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ManageServicesForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ManageServicesForm.cs",
@@ -544,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ManageUsersForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ManageUsersForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ManageUsersForm.cs",
@@ -556,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ManageUsersForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ManageUsersForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ManageUsersForm.Designer.cs",
@@ -568,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\RegisterForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\RegisterForm.cs",
@@ -580,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\MainForm.Designer.cs",
@@ -592,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\MainForm.cs",
@@ -604,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\LoginForm.cs",
@@ -616,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "EditRulesForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\EditRulesForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\EditRulesForm.Designer.cs",
@@ -628,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "CreateServiceForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CreateServiceForm.Designer.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CreateServiceForm.Designer.cs",
@@ -640,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "CreateServiceForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CreateServiceForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CreateServiceForm.cs",
@@ -652,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "EditRulesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\EditRulesForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\EditRulesForm.cs",
@@ -663,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "EditRulesForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\EditRulesForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\EditRulesForm.cs",
@@ -675,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "CreateCharacteristicTypeForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CreateCharacteristicTypeForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CreateCharacteristicTypeForm.cs",
@@ -687,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "CancelApplicationForm.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CancelApplicationForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CancelApplicationForm.cs",
@@ -699,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\RegisterForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\RegisterForm.cs",
@@ -710,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ManageUsersForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ManageUsersForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ManageUsersForm.cs",
@@ -721,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "CancelApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CancelApplicationForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CancelApplicationForm.cs",
@@ -732,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\gosuslugiApp1.0.6\\gosuslugiApp1.0.5\\gosuslugiApp1.0.3\\gosuslugiApp\\gosuslugiApp\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\gosuslugiApp1.0.6\\gosuslugiApp1.0.5\\gosuslugiApp1.0.3\\gosuslugiApp\\gosuslugiApp\\LoginForm.Designer.cs",
@@ -744,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\MainForm.cs",
@@ -755,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\LoginForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\LoginForm.cs",
@@ -766,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ViewApplicationsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ViewApplicationsForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ViewApplicationsForm.cs",
@@ -777,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "ManageServicesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\ManageServicesForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\ManageServicesForm.cs",
@@ -788,7 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "CreateServiceForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CreateServiceForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CreateServiceForm.cs",
@@ -799,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "CreateCharacteristicTypeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\CreateCharacteristicTypeForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\CreateCharacteristicTypeForm.cs",
@@ -810,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "UpdateProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateProfileForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateProfileForm.cs",
@@ -821,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "UpdateApplicationStatusForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\UpdateApplicationStatusForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\UpdateApplicationStatusForm.cs",
@@ -832,7 +867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "SubmitApplicationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mchel\\Desktop\\\u043F\u0438\u0441\\-\\gosuslugiApp1.1\\gosuslugiApp\\gosuslugiApp\\Forms\\SubmitApplicationForm.cs",
               "RelativeDocumentMoniker": "gosuslugiApp\\Forms\\SubmitApplicationForm.cs",

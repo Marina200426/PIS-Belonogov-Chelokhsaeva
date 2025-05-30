@@ -8,23 +8,19 @@ public class ApplicationService
     private readonly IServiceRepository serviceRepository;
     private readonly IRuleRepository ruleRepository;
     private readonly ICharacteristicRepository characteristicRepository;
-    private readonly ServiceService serviceService;
-    private readonly UserService userService;
+    
 
     public ApplicationService(
         IApplicationRepository applicationRepository,
         IServiceRepository serviceRepository,
         IRuleRepository ruleRepository,
-        ICharacteristicRepository characteristicRepository,
-        ServiceService serviceService,
-        UserService userService)
+        ICharacteristicRepository characteristicRepository)
     {
         this.applicationRepository = applicationRepository;
         this.serviceRepository = serviceRepository;
         this.ruleRepository = ruleRepository;
         this.characteristicRepository = characteristicRepository;
-        this.serviceService = serviceService;
-        this.userService = userService;
+        
     }
 
     public DateTime? GetPlannedDateForLastApplication(int userId)

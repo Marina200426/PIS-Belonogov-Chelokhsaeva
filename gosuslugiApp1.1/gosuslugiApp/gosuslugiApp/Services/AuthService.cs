@@ -57,6 +57,6 @@ public class AuthService
     private bool ValidateRole(UserRole role)
     {
         return role == UserRole.администратор ||
-               role == UserRole.госслужащий;
+               role == UserRole.госслужащий || role == UserRole.гражданин;
     }
 }
