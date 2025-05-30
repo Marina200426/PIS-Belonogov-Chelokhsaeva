@@ -1,0 +1,330 @@
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CopyComplete
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CopyComplete
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form8.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form12.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form10.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form11.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form1.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form6.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form7.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form4.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form2.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form9.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form5.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.6 — копия\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form3.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form8.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form12.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form10.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form11.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form1.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form6.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form7.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form4.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form2.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form9.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form5.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Form3.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CopyComplete
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.MainForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.SubmitApplicationForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CancelApplicationForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CreateCharacteristicTypeForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CreateServiceForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.EditRulesForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ManageServicesForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ManageUsersForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.RegisterForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.UpdateApplicationStatusForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.UpdateProfileForm.resources
+C:\Users\79125\Desktop\пис2\gosuslugu2\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ViewApplicationsForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe.config
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\gosuslugiApp.pdb
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.dll
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\Npgsql.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Buffers.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Memory.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Text.Json.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\bin\Debug\System.ValueTuple.xml
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.AssemblyReference.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CancelApplicationForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CreateCharacteristicTypeForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.CreateServiceForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.EditRulesForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.MainForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ManageServicesForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ManageUsersForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.RegisterForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.SubmitApplicationForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.UpdateApplicationStatusForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.UpdateProfileForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.ViewApplicationsForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.LoginForm.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.Properties.Resources.resources
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.GenerateResource.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.csproj.CoreCompileInputs.cache
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslug.0AD33A4A.Up2Date
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.exe
+C:\Users\mchel\Desktop\пис\gosuslugiApp1.1\gosuslugiApp1.0.7\gosuslugiApp1.0.5\gosuslugiApp1.0.3\gosuslugiApp\gosuslugiApp\obj\Debug\gosuslugiApp.pdb
